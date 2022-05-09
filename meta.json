@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/disruptek/badresults",
   "refs": [
-    "fatal: unable to access 'https://github.com/disruptek/badresults/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/disruptek/badresults/': Failed to connect to github.com port 443 after 129621 ms: Connection timed out",
     ""
   ],
   "heads": []
